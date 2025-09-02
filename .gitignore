@@ -1,0 +1,8 @@
+Ignore the large trained model file
+image_classifier_model.h5
+
+Ignore the generated class names file
+class_names.txt
+
+Ignore Python's temporary cache folders
+pycache/
